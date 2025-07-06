@@ -1,10 +1,16 @@
 {
   "files": {
-    "main.js": "/Test1/static/js/main.f66718f8.js",
-    "index.html": "/Test1/index.html",
-    "main.f66718f8.js.map": "/Test1/static/js/main.f66718f8.js.map"
+    "main.css": "/auditlog-app/static/css/main.f855e6bc.css",
+    "main.js": "/auditlog-app/static/js/main.b4c12383.js",
+    "static/js/453.e12aa87f.chunk.js": "/auditlog-app/static/js/453.e12aa87f.chunk.js",
+    "static/media/logo.svg": "/auditlog-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/auditlog-app/index.html",
+    "main.f855e6bc.css.map": "/auditlog-app/static/css/main.f855e6bc.css.map",
+    "main.b4c12383.js.map": "/auditlog-app/static/js/main.b4c12383.js.map",
+    "453.e12aa87f.chunk.js.map": "/auditlog-app/static/js/453.e12aa87f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.f66718f8.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b4c12383.js"
   ]
 }
