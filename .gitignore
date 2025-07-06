@@ -1,0 +1,14 @@
+# Node modules and build artifacts
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+.idea/
